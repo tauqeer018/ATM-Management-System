@@ -87,14 +87,3 @@ Contributions welcome! Please fork the repository and create a pull request.
 - [ ] Support multiple currency types
 - [ ] Enhance loan calculation logic
 ```
-
-This README includes:
-1. Clear feature breakdown
-2. Installation/compilation instructions
-3. Usage examples
-4. File structure explanation
-5. Platform requirements
-6. Contribution guidelines
-7. Future improvement suggestions
-
-You can customize the license, add screenshots, or modify any section to better match your project's specifics! 😊
