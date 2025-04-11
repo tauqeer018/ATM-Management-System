@@ -78,7 +78,7 @@ atm.exe # Windows
 Contributions welcome! Please fork the repository and create a pull request.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the GNU GPLv3 License - see [LICENSE](LICENSE.md) for details.
 
 ## Future Improvements
 - [ ] Add GUI interface
