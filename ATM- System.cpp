@@ -1,3 +1,10 @@
+/*
+ * ATM Management System
+ * Copyright (C) 2023 [Your Name]
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by...
+ */
 #include <fstream>
 #include <iostream>
 #include <string>
@@ -7,6 +14,7 @@
 using namespace std;
 
 string get_hidden_input() {
+    
     string input;
     char ch;
     while (true) {
